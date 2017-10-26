@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+    "hash": "9c605c0cf66d563b7aa53a832cf46a3d",
     "content-hash": "9285b9859d1ff060667d8d8e76e7bcb0",
     "packages": [
         {
@@ -58,7 +59,7 @@
             "keywords": [
                 "enum"
             ],
-            "time": "2017-06-28T16:24:08+00:00"
+            "time": "2017-06-28 16:24:08"
         },
         {
             "name": "seboettg/citeproc-php",
@@ -102,7 +103,7 @@
                 }
             ],
             "description": "Full-featured CSL processor (https://citationstyles.org)",
-            "time": "2017-10-04T21:49:30+00:00"
+            "time": "2017-10-04 21:49:30"
         },
         {
             "name": "seboettg/collection",
@@ -139,7 +140,7 @@
                 }
             ],
             "description": "Simple PHP ArrayList collection",
-            "time": "2017-07-27T09:41:47+00:00"
+            "time": "2017-07-27 09:41:47"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -198,7 +199,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-10-11T12:05:26+00:00"
+            "time": "2017-10-11 12:05:26"
         }
     ],
     "packages-dev": [],
