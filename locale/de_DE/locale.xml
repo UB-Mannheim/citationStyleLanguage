@@ -25,6 +25,7 @@
 	<message key="plugins.generic.citationStyleLanguage.style.modern-language-association">MLA</message>
 	<message key="plugins.generic.citationStyleLanguage.style.turabian-fullnote-bibliography">Turabian</message>
 	<message key="plugins.generic.citationStyleLanguage.style.vancouver">Vancouver</message>
+	<message key="plugins.generic.citationStyleLanguage.style.deutsche-sprache">Deutsche Sprache</message>
 
 	<message key="plugins.generic.citationStyleLanguage.download.bibtex">BibTeX</message>
 	<message key="plugins.generic.citationStyleLanguage.download.ris">Endnote/Zotero/Mendeley (RIS)</message>

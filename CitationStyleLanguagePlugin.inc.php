@@ -77,7 +77,6 @@ class CitationStyleLanguagePlugin extends GenericPlugin {
 				'id' => 'apa',
 				'title' => __('plugins.generic.citationStyleLanguage.style.apa'),
 				'isEnabled' => true,
-				'isPrimary' => true,
 			),
 			array(
 				'id' => 'associacao-brasileira-de-normas-tecnicas',
@@ -114,6 +113,15 @@ class CitationStyleLanguagePlugin extends GenericPlugin {
 				'title' => __('plugins.generic.citationStyleLanguage.style.vancouver'),
 				'isEnabled' => true,
 			),
+
+                        array(
+                                'id' => 'deutsche-sprache',
+                                'title' => __('plugins.generic.citationStyleLanguage.style.deutsche-sprache'),
+                                'isEnabled' => true,
+				'isPrimary' => true,
+
+                        ),
+
 		);
 
 		// If hooking in to add a custom .csl file, add a `useCsl` key to your
